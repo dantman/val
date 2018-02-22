@@ -27,8 +27,8 @@
   "dependencies": {},
   "devDependencies": {
     "@skatejs/ssr": "0.19.1",
-    "babel-jest": "22.1.0",
-    "jest": "22.1.4",
+    "babel-jest": "22.4.1",
+    "jest": "22.4.2",
     "nwb": "0.21.3"
   },
   "author": "Trey Shugart <treshugart@gmail.com>",
